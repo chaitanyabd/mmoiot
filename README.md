@@ -1,5 +1,5 @@
 # mmoiot
-Massive Multi-user Online framework for Internet of Things.
+Massive Multi-user Online framework for Internet of Things. Patent pending as of Fall 2019. 
 
 - Framework
 A tried and tested framework that supports everything from location tracking to up to a 100 discrete sensors. Built upon the versatile Node.JS platform. You will need an API key to use it though. 
